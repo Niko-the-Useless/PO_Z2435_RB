@@ -1,4 +1,4 @@
-class point{
+class point{ 
 	double x;
 	double y;
 	//konstruktor
